@@ -1,0 +1,4 @@
+.vscode
+poi_classified.csv
+poi_to_classify.csv
+poi_training.csv
